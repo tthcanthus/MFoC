@@ -2,7 +2,7 @@
 Code and Data for TT H and HJ C "Mixture of Varying-coefficient Compositional Linear Regression and Its Application to Industrial Structure - PM2.5 Data", in review.
 
 ## Directory Structure
-
+```txt
 industry-pm/                       # R code for the processing of industry structure-pm2.5 data
 │   
 ├── auxiliary functions.R          # auxiliary functions used in the real data analysis
