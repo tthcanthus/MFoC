@@ -1,4 +1,3 @@
-
 break_p <- 20
 ##generate coefficients
 x <- seq(0, 1, length.out=break_p)
